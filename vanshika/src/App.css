@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-size: cover;
+  height: 100vh;
+  background-image: url("./assets/bg.jpeg")
+}
